@@ -53,4 +53,4 @@ The eggs of the brood need to be an odd number
 101-odd: Bash script that prints every other line from the input, starting with the first line.
 
 I'm an instant star. Just add water and stir.
-102-water_and_stir: Bash script that adds the two numbers stored in the environment variables WATER and STIR and prints the result. WATER is in base water, STIR is in base stir, and the result is in base behlnort.
+102-water_and_stir: Bash script that adds the two numbers stored in the environment variables WATER and STIR and prints the result. WATER is in base water, STIR is in base stir, and the result is in base bestchol.
